@@ -1,0 +1,17 @@
+[project]
+name = "video-quality-mcp"
+version = "0.1.0"
+description = "MCP Server for video quality analysis and transcoding comparison"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "numpy>=1.24.0",
+    "opencv-python>=4.8.0",
+    "scipy>=1.11.0",
+    "Pillow>=10.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
