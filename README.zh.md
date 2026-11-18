@@ -129,3 +129,11 @@ Server 将通过 stdio 协议与客户端通信。
 
 英文文档请参见 [README.md](README.md)。
 
+## 许可证
+
+本项目的源代码和文档采用 [MIT 许可证](LICENSE)。
+
+第三方依赖及外部工具（包括 FFmpeg、libvmaf）仍遵循各自的许可证。
+
+如果通过 Git submodule 或其他固定提交的方式引用本项目，请将引用更新至包含
+`LICENSE` 文件的提交，并在再分发时保留许可证和版权声明。

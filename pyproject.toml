@@ -3,6 +3,7 @@ name = "video-quality-mcp"
 version = "0.1.0"
 description = "MCP Server for video quality analysis and transcoding comparison"
 requires-python = ">=3.10"
+license = { file = "LICENSE" }
 dependencies = [
     "mcp>=1.0.0",
     "numpy>=1.24.0",
