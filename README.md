@@ -128,3 +128,14 @@ Generate comprehensive transcoding effect assessment report.
 ## Documentation
 
 For Chinese documentation, see [README.zh.md](README.zh.md).
+
+## License
+
+This project's source code and documentation are licensed under the [MIT License](LICENSE).
+
+Third-party dependencies and external tools, including FFmpeg and libvmaf, remain
+subject to their respective licenses.
+
+If you consume this repository as a Git submodule or another pinned dependency,
+pin a commit that includes the `LICENSE` file and retain the license and copyright
+notice when redistributing the software.
